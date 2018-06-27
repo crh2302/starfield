@@ -1,2 +1,2 @@
 # starfield
-Starfield usign p5js
+Starfield using p5js
